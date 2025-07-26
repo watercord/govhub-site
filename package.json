@@ -1,0 +1,22 @@
+{
+  "name": "nigeriagovhub",
+  "version": "1.0.0",
+  "description": "NigeriaGovHub - Central access to Nigerian government services and information",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "nigeria",
+    "government",
+    "govhub",
+    "vite",
+    "netlify"
+  ],
+  "author": "NigeriaGovHub Team",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
